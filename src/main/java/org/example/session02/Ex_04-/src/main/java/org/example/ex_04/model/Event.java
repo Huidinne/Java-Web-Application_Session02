@@ -1,4 +1,4 @@
-package org.example.session02.Ex_04.model;
+package org.example.ex_04.model;
 public class Event {
     private int id;
     private String name;

@@ -1,4 +1,4 @@
-package org.example.session02.Ex_04.config;
+package org.example.ex_04.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -7,7 +7,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "org.example.session02.Ex_04.controller")
+@ComponentScan(basePackages = "org.example.ex_04.controller")
 public class WebConfig {
     @Bean
     public InternalResourceViewResolver viewResolver() {

@@ -1,6 +1,7 @@
 package org.example.ex_05.controller;
 
 import jakarta.servlet.http.HttpSession;
+import org.example.ex_05.model.HrUser;
 import org.example.ex_05.service.AuthService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

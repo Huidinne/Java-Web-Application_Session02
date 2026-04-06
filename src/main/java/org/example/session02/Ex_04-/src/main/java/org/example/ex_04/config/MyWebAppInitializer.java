@@ -1,4 +1,4 @@
-package org.example.session02.Ex_01.config;
+package org.example.ex_04.config;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 public class MyWebAppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 

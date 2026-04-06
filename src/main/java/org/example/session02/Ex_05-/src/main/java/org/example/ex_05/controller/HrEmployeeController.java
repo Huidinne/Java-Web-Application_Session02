@@ -1,8 +1,8 @@
 package org.example.ex_05.controller;
 
 import jakarta.servlet.http.HttpSession;
-import org.example.session02.Ex_05.model.Employee;
-import org.example.session02.Ex_05.service.EmployeeService;
+import org.example.ex_05.model.Employee;
+import org.example.ex_05.service.EmployeeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,6 +1,5 @@
-package org.example.session02.Ex_04.controller;
-
-import org.example.session02.Ex_04.model.Event;
+package org.example.ex_04.controller;
+import org.example.ex_04.model.Event;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
